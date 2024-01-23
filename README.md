@@ -24,7 +24,7 @@
 * Wrote a program that created a large number of data for their SQL Database in a development environment with minimal user input.
 
 ### Freelance
-* Assisted a comapany by providing a Google App Script to facilitate their inventory management, which in turn allowed them to stop using an online service that cost them a monthly fee.
+* Assisted a company by providing a Google App Script to facilitate their inventory management, which in turn allowed them to stop using an online service that cost them a monthly fee.
 
 
 ## Personal Projects
