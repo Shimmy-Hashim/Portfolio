@@ -24,7 +24,7 @@
 * Wrote a program that created a large number of data for their SQL Database in a development environment with minimal user input.
 
 ### Freelance
-* Provided a Google App Script to facilitate their inventory management, which in turn allowed them to stop using an online service that cost them a monthly fee.
+* Assisted a comapany by providing a Google App Script to facilitate their inventory management, which in turn allowed them to stop using an online service that cost them a monthly fee.
 
 
 ## Personal Projects
@@ -35,5 +35,5 @@
    * Mobile(Android) version written in Kotlin.
    * Both applications share the same Firebase database for user authentication and data storage.
 
-### Minecraft Mod(To be updated)
+### Minecraft Mod (To be updated)
 * Wrote a Minecraft Mod in Java.
