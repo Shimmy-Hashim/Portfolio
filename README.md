@@ -26,12 +26,12 @@
 
 
 ## Personal Projects
-** Pokemon TCG QR Code Storage**
+**Pokemon TCG QR Code Storage**
 * As a Pokemon Trading Card Game collector, wondered where I could keep my QR codes without having to store them physically.
 * Currently written two applications that are in sync and able to scan QR codes and store information.
    * Desktop version written in Python.
    * Mobile(Android) version written in Kotlin.
    * Both applications share the same Firebase database for user authentication and data storage.
 
-** Minecraft Mod(To be updated)**
+**Minecraft Mod(To be updated)**
 * Wrote a Minecraft Mod in Java.
