@@ -28,6 +28,9 @@
 
 
 ## Personal Projects
+### Series Tracker https://seriestracker.netlify.app/
+*Web/Androd application made using Flutter to track any shows or books that a user is currently reading.
+
 ### Pokemon TCG QR Code Storage
 * As a Pokemon Trading Card Game collector, wondered where I could keep my QR codes without having to store them physically.
 * Currently written two applications that are in sync and able to scan QR codes and store information.
