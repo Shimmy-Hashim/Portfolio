@@ -9,7 +9,7 @@
 ## Education
 * BEng. Comp Sci | Nanyang Technological University (2023-Present)
     * Expected Graduation 2027.	
-* Diploma in Computer Engineering | Singapore Poly (2018-2021)
+* Diploma in Computer Engineering | Singapore Polytechnic (2018-2021)
 * Higher NITEC in Electronics Engineering (2016-2018)
   
 ## Work Experience
@@ -29,7 +29,7 @@
 
 ## Personal Projects
 ### Series Tracker https://seriestracker.netlify.app/
-*Web/Androd application made using Flutter to track any shows or books that a user is currently reading.
+* Web/Android application made using Flutter to track any shows or books that a user is currently reading.
 
 ### Pokemon TCG QR Code Storage
 * As a Pokemon Trading Card Game collector, wondered where I could keep my QR codes without having to store them physically.
