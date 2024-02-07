@@ -31,7 +31,7 @@
 ## Hackathon
 * Took part in NTU TechFest 2024 with a team and created a Desktop/Android application using Flutter with Genimi AI API.
 
-### Series Tracker https://seriestracker.netlify.app/
+### [Series Tracker](https://seriestracker.netlify.app/)
 * Web/Android application made using Flutter to track any shows or books that a user is currently reading.
 
 ### Pokemon TCG QR Code Storage
