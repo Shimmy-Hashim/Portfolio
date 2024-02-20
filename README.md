@@ -34,6 +34,7 @@
 
 ### [Series Tracker](https://seriestracker.netlify.app/)
 * Web/Android application made using Flutter to track any shows or books that a user is currently reading.
+* ![Series_Tracker_Image](/Portfolio/Series_Tracker.jpg)
 
 ### Pokemon TCG QR Code Storage
 * As a Pokemon Trading Card Game collector, wondered where I could keep my QR codes without having to store them physically.
